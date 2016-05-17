@@ -1,0 +1,160 @@
+/*header*/
+
+.header {
+	height:100px;
+}
+
+.header h1 {
+	color: rgb( 203, 89, 54);
+	font-family: "open sans condensed";
+	font-weight: 900;
+}
+
+h1 span {
+	color: rgb( 221, 160, 142)
+}
+
+.floatright {
+	float: right;
+}
+
+.floatleft {
+	float: left;
+}
+
+#nav li {
+	text-transform: uppercase;
+	display: inline;
+	margin-right: 20px;
+}
+
+#nav {
+	padding-top: 20px;
+	font-family: "open sans condensed";
+	font-weight: 900;
+	font-size: 26px;
+}
+
+#nav a {
+	color: #A4A4A4;
+}
+
+#nav a:hover {
+	color: rgb( 203, 89, 54)
+}
+
+/*termino header*/
+
+/*main content*/
+
+.ei-slider-large img:before, .ei-slider-large img:after{
+	content: url(images/galley_photo.png)
+}
+
+.single_service_container h2{
+	color: rgb( 203, 89, 54);
+	text-transform: uppercase;
+	font-size: 26px;
+	font-family: "open sans condensed";
+	font-weight: 900;
+	display: inline;
+}
+
+.fa {
+	font-size: 70px;
+	color: rgb( 203, 89, 54);
+	font-weight: 900;
+	display: inline;
+}
+
+.single_service_container p {
+	color: #A4A4A4;
+}
+
+.single_service_container a {
+	background-color: rgb( 203, 89, 54);
+	color: white;
+	padding: 10px 15px;
+	font-family: "open sans condensed";
+	text-transform: uppercase;
+	font-size: 16px;
+}
+
+.from_blog h2, .from_works h2 {
+	color: rgb( 203, 89, 54);
+	font-family: "open sans condensed";
+	text-transform: uppercase;
+	font-weight: 900;
+	font-size: 40px
+}
+
+.single_blog_post, .single_work {
+	width: 25%;
+}
+
+h3 {
+	color: #A4A4A4;
+	font-family: "open sans condensed";
+	text-transform: uppercase;
+	font-weight: 900;
+	font-size: 22px;
+	text-align: center;
+}
+
+h4 {
+	color: rgb( 203, 89, 54);
+	font-family: "open sans condensed";
+	text-transform: uppercase;
+	font-weight: 900;
+	font-size: 15px;
+	text-align: center;
+}
+
+ img {
+	margin-left: 35px;
+}
+
+.footer {
+	background-color: rgb( 203, 89, 54);
+	width: 100%;
+	height: 400px;
+	margin-top: 400px;
+}
+
+.footer h2 {
+	color: white;
+	font-family: "open sans condensed";
+	text-transform: uppercase;
+	font-weight: 900;
+	font-size: 35px;
+	text-align: center;
+}
+
+.footer p {
+	color: white;
+	text-align: left;
+}
+
+.social_area img {
+	margin-left: 0px
+}
+
+.titulo {
+	.about {
+		color: white;
+		background-color: rgb( 203, 89, 54);
+		padding: 15px 0px;
+		margin: 0px;
+		text-align: left;
+	}
+}
+
+
+
+
+
+
+
+
+
+
